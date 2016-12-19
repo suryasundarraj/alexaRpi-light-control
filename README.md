@@ -1,6 +1,6 @@
 # Voice Controlled Home Automation using Alexa and Raspberry Pi
 
-This Repo contains the Python script for Amazon Alexa home automation demo using Raspberry Pi . This Repo is the accompanying source code for this [blog series](http://radiostud.io/voice-controlled-home-automation-alexa-part-2/) which has the complete walkthrough to build.
+This Repo contains the Python script for Amazon Alexa home automation demo using Raspberry Pi . This Repo is the accompanying source code for this [blog series](http://radiostud.io/voice-controlled-home-automation-alexa-part-2/).
 
 ## Prerequisites 
 
